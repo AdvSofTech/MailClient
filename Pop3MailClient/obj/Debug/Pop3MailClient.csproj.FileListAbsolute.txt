@@ -1,0 +1,7 @@
+C:\SW Library\Pop3MailClient\Pop3MailClient\Pop3MailClient\bin\Debug\Pop3MailClient.exe
+C:\SW Library\Pop3MailClient\Pop3MailClient\Pop3MailClient\bin\Debug\Pop3MailClient.pdb
+C:\SW Library\Pop3MailClient\Pop3MailClient\Pop3MailClient\obj\Debug\ResolveAssemblyReference.cache
+C:\SW Library\Pop3MailClient\Pop3MailClient\Pop3MailClient\obj\Debug\Pop3MailClient.exe
+C:\SW Library\Pop3MailClient\Pop3MailClient\Pop3MailClient\obj\Debug\Pop3MailClient.pdb
+C:\SW Library\Pop3MailClient\Pop3MailClient\Pop3MailClient\bin\Debug\Pop3MailClient.exe.CodeAnalysisLog.xml
+C:\SW Library\Pop3MailClient\Pop3MailClient\Pop3MailClient\bin\Debug\Pop3MailClient.exe.lastcodeanalysissucceeded
