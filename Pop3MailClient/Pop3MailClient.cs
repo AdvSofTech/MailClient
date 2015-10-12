@@ -1,8 +1,7 @@
 // POP3 Client
 // ===========
 //
-// copyright by Peter Huber, Singapore, 2006
-// this code is provided as is, bugs are probable, free for any use, no responsibility accepted :-)
+
 //
 // based on POP3 Client as a C# Class, by Bill Dean, http://www.codeproject.com/csharp/Pop3MailClient.asp 
 // based on Retrieve Mail From a POP3 Server Using C#, by Agus Kurniawan, http://www.codeproject.com/csharp/popapp.asp 
